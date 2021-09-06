@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Biometric Authentication</string>
+    <string name="authentication">Authentication</string>
+    <string name="authentication_status">Authentication status</string>
+    <string name="authentication_error">Authentication Error</string>
+    <string name="auth_succeeded">Authentication Succeeded</string>
+    <string name="auth_failed">Authentication Failed</string>
+</resources>
